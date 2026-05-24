@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.exe
+*.cache.json
+notes.db
+usd_idr_cache.json
+currency_cache.json
+
+# Backup files
+*.bak
+*.old
