@@ -141,6 +141,8 @@ Thanks to the respective owners of:
 - [Fast.com](https://fast.com/)
 - [ScamAdviser](https://www.scamadviser.com/)
 
+– All trademarks are property of their respective owners.
+
 ```
 
 <div align="center"> <p>Made with 🛠️ for productivity</p> <p> <a href="https://github.com/b70386/grizzledesk/issues">Report Bug</a> • <a href="https://github.com/b70386/grizzledesk/issues">Request Feature</a> </p> </div> ```
