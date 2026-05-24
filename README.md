@@ -66,15 +66,17 @@ grizzledesk/
 
 ## 🛠️ Tech Stack
 
+```
 GUI Framework: CustomTkinter 5.2.2
 Image Processing: Pillow 12.2.0
 HTTP Requests: Requests 2.32.3
 Markdown: markdown 3.7
 Packaging: PyInstaller 6.20.0
----
+```
 
 ## 🎯 Roadmap
 
+```
 Notes with font options & share
 Currency converter (real-time)
 Scientific calculator
@@ -85,31 +87,34 @@ System tray support
 Custom themes
 Export notes to PDF
 More currency pairs
----
+```
 
 ## 🤝 Contributing
 
+```
 Contributions are welcome! Feel free to:
 Fork the repository
 Create a feature branch
 Commit your changes
 Push to the branch
 Open a Pull Request
----
+```
 
 ## ⚠️ Disclaimer
 
+```
 For Personal Use Only
 GrizzleDesk is designed for personal productivity.
 Users are responsible for complying with applicable laws and regulations.
----
+```
 
 ## 🙏 Acknowledgments
 
+```
 CustomTkinter – Modern GUI framework
 Frankfurter API – Exchange rates
 PyInstaller – Packaging Python apps
----
+```
 
 <div align="center"> <p>Made with 🛠️ for productivity</p> <p> <a href="https://github.com/b70386/grizzledesk/issues">Report Bug</a> • <a href="https://github.com/b70386/grizzledesk/issues">Request Feature</a> </p> </div> ```
 ```
