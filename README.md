@@ -122,9 +122,13 @@ Users are responsible for complying with applicable laws and regulations.
 ## 🙏 Acknowledgments
 
 ```
-CustomTkinter – Modern GUI framework
-Frankfurter API – Exchange rates
-PyInstaller – Packaging Python apps
+## 🙏 Acknowledgments
+
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – Modern GUI framework
+- [Frankfurter API](https://www.frankfurter.app/) – Exchange rates
+- [PyInstaller](https://pyinstaller.org) – Packaging Python apps
+
+**Online Tools Icons:** [GitHub](https://github.com/), [Python.org](https://www.python.org/), [Cobalt Tools](https://cobalt.tools/), [Hybrid Analysis](https://hybrid-analysis.com/), [VirusTotal](https://www.virustotal.com/), [iLovePDF](https://www.ilovepdf.com/), [iLoveIMG](https://www.iloveimg.com/), [BrowserLeaks](https://browserleaks.com/), [Fast.com](https://fast.com/), [ScamAdviser](https://www.scamadviser.com/) – All trademarks are property of their respective owners.
 ```
 
 <div align="center"> <p>Made with 🛠️ for productivity</p> <p> <a href="https://github.com/b70386/grizzledesk/issues">Report Bug</a> • <a href="https://github.com/b70386/grizzledesk/issues">Request Feature</a> </p> </div> ```
