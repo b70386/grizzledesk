@@ -141,7 +141,7 @@ Thanks to the respective owners of:
 - [Fast.com](https://fast.com/)
 - [ScamAdviser](https://www.scamadviser.com/)
 
-– All trademarks are property of their respective owners.
+All trademarks are property of their respective owners.
 
 ```
 
