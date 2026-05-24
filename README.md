@@ -122,13 +122,24 @@ Users are responsible for complying with applicable laws and regulations.
 ## 🙏 Acknowledgments
 
 ```
-## 🙏 Acknowledgments
-
+### Libraries & Frameworks
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – Modern GUI framework
 - [Frankfurter API](https://www.frankfurter.app/) – Exchange rates
 - [PyInstaller](https://pyinstaller.org) – Packaging Python apps
 
-**Online Tools Icons:** [GitHub](https://github.com/), [Python.org](https://www.python.org/), [Cobalt Tools](https://cobalt.tools/), [Hybrid Analysis](https://hybrid-analysis.com/), [VirusTotal](https://www.virustotal.com/), [iLovePDF](https://www.ilovepdf.com/), [iLoveIMG](https://www.iloveimg.com/), [BrowserLeaks](https://browserleaks.com/), [Fast.com](https://fast.com/), [ScamAdviser](https://www.scamadviser.com/) – All trademarks are property of their respective owners.
+### Online Tools (Icons & References)
+Thanks to the respective owners of:
+
+- [GitHub](https://github.com/)
+- [Python.org](https://www.python.org/)
+- [Cobalt Tools](https://cobalt.tools/)
+- [Hybrid Analysis](https://hybrid-analysis.com/)
+- [VirusTotal](https://www.virustotal.com/)
+- [iLovePDF](https://www.ilovepdf.com/)
+- [iLoveIMG](https://www.iloveimg.com/)
+- [BrowserLeaks](https://browserleaks.com/)
+- [Fast.com](https://fast.com/)
+- [ScamAdviser](https://www.scamadviser.com/)
 
 ```
 
