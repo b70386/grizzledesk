@@ -33,6 +33,17 @@
 
 ---
 
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="ss1.png" alt="GrizzleDesk Home Page" width="400">
+  <img src="ss2.png" alt="GrizzleDesk Notes & Currency" width="400">
+  <br />
+  <em>Home Page & Tools Overview</em>
+</div>
+
+---
+
 ## 🚀 Quick Start
 
 ### Download
