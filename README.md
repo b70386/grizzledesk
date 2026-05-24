@@ -53,6 +53,7 @@ python main_obf.py
 ```
 
 ## 📁 Project Structure
+```
 grizzledesk/
 ├── main_obf.py           # Entry point (obfuscated)
 ├── requirements.txt      # Python dependencies
@@ -61,7 +62,7 @@ grizzledesk/
 ├── utils_obf/            # Obfuscated utils modules
 ├── LICENSE               # MIT License + Trademarks
 └── README.md             # This file
----
+```
 
 ## 🛠️ Tech Stack
 GUI Framework: CustomTkinter 5.2.2
