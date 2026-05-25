@@ -4,6 +4,18 @@ __pycache__/
 *.so
 .Python
 
+# Folder PyArmor & Cache
+.pyarmor/
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.json
+
+
 # Virtual Environment
 venv/
 env/
