@@ -25,6 +25,7 @@
 |---------|-------------|
 | 📝 **Notes** | Write, save, and share notes with font options |
 | 💱 **Currency** | Real-time exchange rates (Frankfurter API) |
+| 🪙 Crypto | Real-time BTC, ETH & PI Price Monitor via Binance API |
 | 🧮 **Calculator** | Scientific calculator with advanced functions |
 | 📏 **Converter** | 7 categories: Length, Mass, Volume, Temperature, Electricity, Velocity, Liquid/Gas |
 | 🌐 **Online Tools** | 10 website shortcuts with official favicons |
@@ -54,23 +55,22 @@ Download the latest `GrizzleDesk.exe` from [Releases](https://github.com/b70386/
 
 Double-click `GrizzleDesk.exe` – no installation required!
 
-### Build from Source
+## Build from Source
 
 ```bash
-git clone https://github.com/b70386/grizzledesk.git
+git clone [https://github.com/b70386/grizzledesk.git](https://github.com/b70386/grizzledesk.git)
 cd grizzledesk
 pip install -r requirements.txt
-python main_obf.py
+python main.py
 ```
 
 ## 📁 Project Structure
 ```
 grizzledesk/
-├── main_obf.py           # Entry point (obfuscated)
+├── main.py               # Entry point
 ├── requirements.txt      # Python dependencies
 ├── assets/               # Icons and images
-├── tabs_obf/             # Obfuscated tab modules
-├── utils_obf/            # Obfuscated utils modules
+├── tabs                  # Tab Modules
 ├── LICENSE               # MIT License + Trademarks
 └── README.md             # This file
 ```
@@ -124,7 +124,8 @@ Users are responsible for complying with applicable laws and regulations.
 ```
 ### Libraries & Frameworks
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – Modern GUI framework
-- [Frankfurter API](https://www.frankfurter.app/) – Exchange rates
+- [Open ER-API](https://www.exchangerate-api.com/docs/free-exchange-rate-api) – Stable exchange rates
+- [Binance API](https://binance-docs.github.io/apidocs/spot/en/) – Real-time crypto prices
 - [PyInstaller](https://pyinstaller.org) – Packaging Python apps
 
 ### Online Tools (Icons & References)
